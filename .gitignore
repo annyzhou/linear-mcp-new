@@ -1,0 +1,22 @@
+# Packages
+**/packages/
+**./venv/
+**/.venv/
+
+# Caches
+**/.cache/
+.ruff_cache/
+
+# Python
+**/__pycache__/
+
+# Environment variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# Coding agents
+**/.wingman/
+**/.claude/
+**/.cursor/
+**/.agent/
